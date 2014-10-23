@@ -11,8 +11,8 @@ Because it's pretty! But most importantly, it's easier to read; after all, licen
 And reStructuredText is familiar with documentation tool `Sphinx <http://sphinx-doc.org/>`_.
 
 Compare these two files:
- - [GNU GPL v3 - Original plaintext version](http://www.gnu.org/licenses/gpl-3.0.txt)
- - [GNU GPL v3 - Markdown formatted version](gnu-gpl-v3.0.rst)
+ - `GNU GPL v3 - Original plaintext version <http://www.gnu.org/licenses/gpl-3.0.txt>`_
+ - `GNU GPL v3 - Markdown formatted version <gnu-gpl-v3.0.rst>`_
 
 Isn't editing the license a violation of the license?
 -----------------------------------------------------
