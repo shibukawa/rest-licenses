@@ -27,7 +27,7 @@ GNU Licenses
 Contributors
 ------------
 
-* `Andreas Renberg (IQAndreas) <https://github.com/IQAndreas`_
+* `Andreas Renberg (IQAndreas) <https://github.com/IQAndreas>`_
 * `Jonathan Robson <https://github.com/jnrbsn>`_ - Converted GPLv3 to Markdown: `GitHub: jnrbsn/GPL.md <https://gist.github.com/jnrbsn/708961>`_
 * `J2897 <https://github.com/J2897>`_ - Minor fixes to GPLv3 formatting: `GitHub: J2897/TOR_Updater/LICENSE.md <https://github.com/J2897/TOR_Updater/blob/master/LICENSE.md>`_
 * `Yoshiki Shibukawa (shibukawa) <https://github.com/shibukawa>`_ - The Unlicense (unlicense.md) and translation from Markdown to reStructuredText
