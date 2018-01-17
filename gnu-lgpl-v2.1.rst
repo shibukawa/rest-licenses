@@ -468,6 +468,8 @@ safest to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least the
 "copyright" line and a pointer to where the full notice is found.
 
+::
+
     <one line to give the library's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
 
@@ -489,7 +491,7 @@ Also add information on how to contact you by electronic and paper mail.
 
 You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the library, if
-necessary.  Here is a sample; alter the names:
+necessary.  Here is a sample; alter the names::
 
     Yoyodyne, Inc., hereby disclaims all copyright interest in the
     library `Frob' (a library for tweaking knobs) written by James Random Hacker.
