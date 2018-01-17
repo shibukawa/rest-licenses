@@ -437,21 +437,21 @@ ADDENDUM: How to use this License for your documents
 
 To use this License in a document you have written, include a copy of
 the License in the document and put the following copyright and
-license notices just after the title page:
+license notices just after the title page::
 
-|   Copyright (c)  <YEAR>  <YOUR NAME>.
-|   Permission is granted to copy, distribute and/or modify this document
-|   under the terms of the GNU Free Documentation License, Version 1.3
-|   or any later version published by the Free Software Foundation;
-|   with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-|   A copy of the license is included in the section entitled "GNU
-|   Free Documentation License".
+    Copyright (c)  <YEAR>  <YOUR NAME>.
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
 
 If you have Invariant Sections, Front-Cover Texts and Back-Cover Texts,
-replace the `with...Texts.` line with this:
+replace the `with...Texts.` line with this::
 
-|   with the Invariant Sections being <LIST THEIR TITLES>, with the
-|   Front-Cover Texts being <LIST>, and with the Back-Cover Texts being <LIST>.
+    with the Invariant Sections being <LIST THEIR TITLES>, with the
+    Front-Cover Texts being <LIST>, and with the Back-Cover Texts being <LIST>.
 
 If you have Invariant Sections without Cover Texts, or some other
 combination of the three, merge those two alternatives to suit the

@@ -291,6 +291,8 @@ to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
+::
+
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
     
@@ -311,7 +313,7 @@ the "copyright" line and a pointer to where the full notice is found.
 Also add information on how to contact you by electronic and paper mail.
 
 If the program is interactive, make it output a short notice like this
-when it starts in an interactive mode:
+when it starts in an interactive mode::
 
     Gnomovision version 69, Copyright (C) year name of author
     Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
@@ -325,7 +327,7 @@ mouse-clicks or menu items--whatever suits your program.
 
 You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the program, if
-necessary.  Here is a sample; alter the names:
+necessary.  Here is a sample; alter the names::
 
     Yoyodyne, Inc., hereby disclaims all copyright interest in the program
     `Gnomovision' (which makes passes at compilers) written by James Hacker.
